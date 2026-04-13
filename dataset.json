@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
+  "config_name": "Restaurant TikTok Renegades in Dallas-Fort Worth-Arlington Metro Area, TX, US",
+  "export_job_id": "df35258a-77b1-41b2-abf3-257c7d2b692a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 754414,
+  "location_name": "Dallas-Fort Worth-Arlington, TX",
+  "location_type": "metro",
+  "repo_name": "restaurant-tiktok-renegades-in-dallas-fort-worth-arlington-metro-area-tx-us-sample-754414",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/754414/beamstation_754414_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
+  "sample_pct": 9.79,
+  "sample_records": 14,
+  "sample_sha256": "fde14c83f90a199c2f43edfc006db225a5aa89fbd0eb46bc9e6728acfcd5e279",
+  "sample_size_bytes": 72176,
+  "total_records": 143,
+  "updated_at": "2026-04-08T05:34:44.510473+00:00"
+}
