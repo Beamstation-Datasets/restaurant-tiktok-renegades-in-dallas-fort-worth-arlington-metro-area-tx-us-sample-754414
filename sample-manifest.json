@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fb285f80-3d2e-45a6-9326-1bb7620aa34a",
+  "export_job_id": "c2388349-090a-4c02-888b-0b4bd6f2fcda",
   "id_short": 754414,
-  "published_at": "2026-04-19T07:52:16Z",
+  "published_at": "2026-04-23T07:08:19Z",
   "repo_name": "restaurant-tiktok-renegades-in-dallas-fort-worth-arlington-metro-area-tx-us-sample-754414",
   "sample_asset_name": "beamstation_754414_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/754414/beamstation_754414_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "b608f396537827d1754a2c458a92edc863846f176fa653c32c17a8e77c8aa5c0",
-  "sample_size_bytes": 66210,
-  "total_records": 138
+  "sample_records": 9,
+  "sample_sha256": "262ef4e24b743f64aa818f99617a3f154dcc01e16b744c937f4bf688ab0bc6e9",
+  "sample_size_bytes": 53247,
+  "total_records": 93
 }
