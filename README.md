@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Dallas-Fort Worth-Arlington Metro Area, TX, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `754414` |
 | Location | Dallas-Fort Worth-Arlington, TX |
 | Category | Restaurants |
-| Full dataset size | 93 records |
-| Free sample size | 9 records (9.68%) |
-| Last export | 2026-04-22T16:59:57.822738+00:00 |
+| Full dataset size | 145 records |
+| Free sample size | 14 records (9.66%) |
+| Last export | 2026-04-29T16:51:52.045196+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-dallas-fort-worth-arlington-metro-area-tx-us-sample-754414/releases/download/sample-latest/beamstation_754414_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
